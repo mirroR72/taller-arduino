@@ -5,4 +5,4 @@
 3. Fichero > Ejemplos > Basics > Blink
 4. 'Subir' codigo al Arduino
 
-![img/0.examples.blink.jpg](img/0.examples.blink.jpg)
+![img/0.examples.blink.png](img/0.examples.blink.png)
