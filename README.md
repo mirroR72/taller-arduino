@@ -11,6 +11,7 @@
 2. Ir a Herramientas y selecionar 'Arduino Nano', ATMEGA328P, y el puerto que corresponda.
 
 ![img/herramientas.png](img/herramientas.png)
+![img/subir.png](img/subir.png)
 
 ## Para subir un codigo basico al Arduino
 
