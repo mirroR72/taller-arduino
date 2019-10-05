@@ -69,7 +69,7 @@ El servomotor tiene 3 cables:
 2. Electricidad *POLO NEGATIVO* (marron o negro)
 3. Señal (en amarillo)
 
-1. Conectar el Servomotor pins 5V (rojo), GND (marron) y un pin con PWM como el D6 (amarillo)
+1. Conectar el Servomotor pins 5V (rojo), GND (marron) y un pin con PWM como el D9 (amarillo)
 2. Usar `analogWrite(pin, val)` para controlar el servomotor, `val` puede tener valor entre 0 y 255.
 
 ![img/4.servomotor.png](img/4.servomotor.png)
