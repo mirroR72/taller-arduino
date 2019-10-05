@@ -8,7 +8,7 @@
 ## Conectar el Arduino
 
 1. Conectar el Arduino por USB
-2. Ir a Herramientas y selecionar 'Arduino Nano', ATMEGA328P, y el puerto que corresponda.
+2. Ir a Herramientas y selecionar `Arduino Nano`, `ATMEGA328P`, y el puerto que corresponda.
 
 ![img/herramientas.png](img/herramientas.png)
 
@@ -17,7 +17,7 @@
 1. Ir a Fichero > Ejemplos > Basics > Blink
 2. 'Subir' codigo al Arduino
 
-![img/0.examples.blink.png](img/0.examples.blink.png)
+![img/examples.blink.png](img/examples.blink.png)
 ![img/subir.png](img/subir.png)
 
 # Herramientas: Arduino Nano
@@ -35,8 +35,17 @@ Se usa para conectar componentes. Se puedan crear **varias conexiones en cada un
 # Primer Circuito: Blink
 
 1. Conectar LED al pin D13: *PATA LARGA* es *POSITIVO* y va hacia el ARDUINO
-2. La pata larga del LED se conecta con el *NEGATIVO* y as su vez, con el pin GND (Groud = Tierra = Negativo).
-3. Se puede usar una resistencia de 330 Ohm en el LED D13 pero es opcional, ya que el Arduino ya lleva una internamente
+2. La *PATA CORTA* del LED se conecta con el *NEGATIVO* y as su vez, con el pin GND (Groud = Tierra = Negativo).
+3. Se puede usar una resistencia de 330 Ohm en el LED D13 pero es opcional, ya que el Arduino ya lleva una internamente.
 
 ![img/1.blink.jpg](img/1.blink.jpg)
 
+# Segundo Circuito: Fotoresistencia
+
+![img/examples.analoginoutserial.png](img/examples.analoginoutserial.png)
+
+1. Conectar Fotoresistencia a cualquier pin A0-A7.
+2. Usar `int valor = analogRead(A0);` para leer el valor de la fotoresistencia.
+3. Abrir `Herramientas > Monitor de Serie` para ver los valores que manda la fotoresistencia al PC por USB
+
+![img/2.photoresistor.gif](img/2.photoresistor.gif)
