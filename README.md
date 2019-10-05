@@ -8,7 +8,7 @@
 ## Conectar el Arduino
 
 1. Conectar el Arduino por USB
-2. Ir a Herramientas y selecionar 'Arduino Nano', ATMEGA328P, y el puerto que corresponda.
+2. Ir a Herramientas y selecionar `Arduino Nano`, `ATMEGA328P`, y el puerto que corresponda.
 
 ![img/herramientas.png](img/herramientas.png)
 
