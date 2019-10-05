@@ -5,4 +5,23 @@
 3. Fichero > Ejemplos > Basics > Blink
 4. 'Subir' codigo al Arduino
 
+# Herramientas: Arduino Nano
+
 ![img/0.examples.blink.png](img/0.examples.blink.png)
+
+# Herramientas: Placa
+
+La placa se usa para conectar el arduino con diferentes componentes. 
+
+Basicamente hace que se puedan crear varias conexiones en cada uno de los pines.
+
+![img/breadboard.front-back.jpg](img/breadboard.front-back.jpg)
+
+# Primer Circuito: Blink
+
+1. Conectar LED al pin D13: *PATA LARGA* es *POSITIVO* y va hacia el ARDUINO
+2. La pata larga del LED se conecta con el *NEGATIVO* y as su vez, con el pin GND (Groud = Tierra = Negativo).
+3. Se puede usar una resistencia de 330 Ohm en el LED D13 pero es opcional, ya que el Arduino ya lleva una internamente
+
+![1.blink.jpg](1.blink.jpg)
+
