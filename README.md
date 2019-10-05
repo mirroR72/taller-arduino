@@ -61,7 +61,7 @@ Se usa para conectar componentes. Se puedan crear **varias conexiones en cada un
 
 # Cuarto Circuito: Servomotor
 
-![img/examples.analogwrite.png](examples.analogwrite.png)
+![img/examples.analogwrite.png](img/examples.analogwrite.png)
 
 El servomotor tiene 3 cables:
 
