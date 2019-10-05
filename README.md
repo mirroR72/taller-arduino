@@ -49,3 +49,14 @@ Se usa para conectar componentes. Se puedan crear **varias conexiones en cada un
 3. Abrir `Herramientas > Monitor de Serie` para ver los valores que manda la fotoresistencia al PC por USB
 
 ![img/2.photoresistor.gif](img/2.photoresistor.gif)
+
+# Tercer Circuito: Zumbador (Buzzer)
+
+![img/examples.tonepitchfollower.png](img/examples.tonepitchfollower.png)
+
+1. Conectar el Zumbador a un pin con PWM (Ver [#Pinout](#Pinout))
+
+
+## Pinout
+
+![img/nano.pinout.jpg](img/nano.pinout.jpg)
