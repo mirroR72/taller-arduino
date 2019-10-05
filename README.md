@@ -38,7 +38,7 @@ Se usa para conectar componentes. Se puedan crear **varias conexiones en cada un
 2. La *PATA CORTA* del LED se conecta con el *NEGATIVO* y as su vez, con el pin GND (Groud = Tierra = Negativo).
 3. Se puede usar una resistencia de 330 Ohm en el LED D13 pero es opcional, ya que el Arduino ya lleva una internamente.
 
-![img/1.blink.jpg](img/1.blink.jpg)
+<img src="img/1.blink.jpg" width="600">
 
 # Segundo Circuito: Fotoresistencia
 
@@ -72,7 +72,7 @@ El servomotor tiene 3 cables:
 1. Conectar el Servomotor pins 5V (rojo), GND (marron) y un pin con PWM como el D9 (amarillo)
 2. Usar `analogWrite(pin, val)` para controlar el servomotor, `val` puede tener valor entre 0 y 255.
 
-![img/4.servomotor.png](img/4.servomotor.png)
+<img src="img/4.servomotor.png" width="600">
 
 ## Pinout
 
