@@ -21,7 +21,7 @@
 
 # Herramientas: Arduino Nano
 
-El nano **tiene un LED ya conectado** con el pin 13, este se enciende y se puede cambiar la velocidad con el programa de 'blink'
+El nano **tiene un LED ya conectado** con el pin 13 con la letra 'L', se puede cambiar la velocidad con el programa de 'blink'
 
 ![img/blink.jpg](img/blink.jpg)
 
