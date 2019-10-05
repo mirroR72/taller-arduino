@@ -59,4 +59,4 @@ Se usa para conectar componentes. Se puedan crear **varias conexiones en cada un
 
 ## Pinout
 
-![img/nano.pinout.jpg](img/nano.pinout.jpg =600x)
+![img/nano.pinout.jpg](img/nano.pinout.jpg)
