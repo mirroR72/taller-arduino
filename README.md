@@ -54,8 +54,10 @@ Se usa para conectar componentes. Se puedan crear **varias conexiones en cada un
 
 ![img/examples.tonepitchfollower.png](img/examples.tonepitchfollower.png)
 
-1. Conectar el Zumbador a un pin con PWM (Ver [#Pinout](#Pinout))
+1. Conectar el Zumbador a un pin con PWM (Ver [#pinout](#Pinout))
+2. Usar `tone(PIN, FREQUENCY, DURATION)` para generar un tono basado en la fotoresistencia.
 
+![img/3.buzzer.png](img/3.buzzer.png)
 
 ## Pinout
 
